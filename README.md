@@ -8,4 +8,4 @@ I analyzed Winter Olympics medal data from 1924 to 2014 to compare hosting effec
 I found that countries tend to win more medals in the years they host the Winter Olympics, showing a clear hosting advantage. In addition, I discovered that speed skating has the largest medal pool, and the Netherlands, despite being a smaller overall medal nation, dominates this sport. Finally, I observed that the Winter Olympics have become more global over time, with more countries winning medals, even though traditional powerhouses still lead overall.
 ## Data Source
 [Kaggle - Olympics Games Dataset] (https://www.kaggle.com/datasets/hassanjameelahmed/olympic-dataset)
-! [My Plot](Plot1.png)
+![My Plot](Plot1.png)
